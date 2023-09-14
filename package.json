@@ -1,0 +1,25 @@
+{
+  "name": "mock-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preetykumari06/mock-Json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Preetykumari06/mock-Json-server/issues"
+  },
+  "homepage": "https://github.com/Preetykumari06/mock-Json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "nodemon": "^3.0.1"
+  }
+}
